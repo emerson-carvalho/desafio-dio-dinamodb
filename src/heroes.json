@@ -1,0 +1,31 @@
+{
+    "Heroes": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Hero": {"S": "All Might"},
+                  "Power": {"S": "One for All"},
+                  "PersonalName": {"S": "Toshinori Yagi"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Hero": {"S": "Shoto"},
+                  "Power": {"S": "Meio Frio, Meio Quente"},
+                  "PersonalName": {"S": "Shoto Todoroki"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Hero": {"S": "Eraser Head"},
+                  "Power": {"S": "Anulacao"},
+                  "PersonalName": {"S": "Shota Aizawa"}
+                }
+            }
+        }
+      ]
+}
